@@ -13,27 +13,37 @@
 [![Spotify](https://img.shields.io/badge/Spotify-%230077B5.svg?logo=spotify&logoColor=green)](https://open.spotify.com/user/31id6dp75xrlypsewvokmsurzrlq) 
 
 - ⚡ Fun fact: ...
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-dont scroll,there's nothing 
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- dont scroll,there's nothing 
 Go abck
