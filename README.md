@@ -1,7 +1,7 @@
 # About Me:
 ### Hi there 👋
 
-A Self Taught Developer<br>- ⚡ I’m currently learning | 📫 Contact me: patilamullya@gmail.com
+- ⚡ I’m currently learning <br> A Self Taught Developer <br> 📫 Contact me: patilamullya@gmail.com
 - ![](https://komarev.com/ghpvc/?username=AmullyaPatil&color=green)
 
 ## 🌐 Socials:
