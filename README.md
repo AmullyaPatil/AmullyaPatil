@@ -1,6 +1,7 @@
 # About Me:
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=AmullyaPatil&color=green)
 [![HitCount](https://hits.dwyl.com/Amullya Patil/{project}.svg?style=flat-square)](http://hits.dwyl.com/Amullya Patil/{project})
 A Self Taught Developer<br>- ⚡ I’m currently learning | 📫 Contact me: patilamullya@gmail.com
 
