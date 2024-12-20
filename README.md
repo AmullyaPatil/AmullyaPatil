@@ -13,3 +13,4 @@
 [![Spotify](https://img.shields.io/badge/Spotify-%230077B5.svg?logo=spotify&logoColor=green)](https://open.spotify.com/user/31id6dp75xrlypsewvokmsurzrlq) 
 
 - ⚡ Fun fact: ...
+- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AmullyaPatil)](https://git.io/streak-stats) 
